@@ -1,2 +1,2 @@
 # WEB-SCRAPPER
-Amazon Web Scrapper
+Amazon Web Scrapper to scrape customer reviews of different mobile phones
